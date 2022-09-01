@@ -9,4 +9,5 @@ const connect = function () {
 
 }
 
-module.exports = connect
+module.exports = {
+  connect };
